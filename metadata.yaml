@@ -1,0 +1,29 @@
+_repo: The-Brothers-War_37890
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37890-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reed, John C. (John Calvin)
+    birthdate: 1836
+    deathdate: 1910
+    gutenberg_agent_id: '39117'
+    url: http://www.gutenberg.org/2009/agents/39117
+description: ''
+gutenberg_issued: '2011-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37890'
+  lccn: '05037134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcc 'E456'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'United States -- Race relations'
+title: The Brothers' War
+url: http://www.gutenberg.org/ebooks/37890
